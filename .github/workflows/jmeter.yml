@@ -3,7 +3,7 @@ name: Run JMeter Tests
 on:
   push:
     branches:
-      - master
+      - master2
 
 jobs:
   jmeter-test:
