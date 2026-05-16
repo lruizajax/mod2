@@ -3,7 +3,7 @@ name: Run Postman Collection
 on:
   push:
     branches:
-      - master
+      - master1
 
 jobs:
   api-tests:
